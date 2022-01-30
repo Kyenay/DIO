@@ -1,0 +1,30 @@
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG.exe
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG.deps.json
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG.runtimeconfig.json
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\ref\Abstraindo um Jogo de RPG.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG.pdb
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\ref\Abstraindo um Jogo de RPG.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG.pdb
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\ref\Abstraindo um Jogo de RPG.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.pdb
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\Abstraindo um Jogo de RPG.exe
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\Abstraindo um Jogo de RPG.deps.json
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\Abstraindo um Jogo de RPG.runtimeconfig.json
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\Abstraindo um Jogo de RPG.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\ref\Abstraindo um Jogo de RPG.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\Abstraindo um Jogo de RPG.pdb
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.genruntimeconfig.cache

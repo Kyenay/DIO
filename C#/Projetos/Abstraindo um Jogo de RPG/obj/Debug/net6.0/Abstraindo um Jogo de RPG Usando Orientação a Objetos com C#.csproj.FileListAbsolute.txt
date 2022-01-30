@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.exe
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.deps.json
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.runtimeconfig.json
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\ref\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.pdb
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\ref\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.pdb
+C:\Users\Pichau\Documents\Learning-Dio\DIO\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.genruntimeconfig.cache
