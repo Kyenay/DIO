@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\bin\Debug\net6.0\APP simples de cadastro de séries.exe
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\bin\Debug\net6.0\APP simples de cadastro de séries.deps.json
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\bin\Debug\net6.0\APP simples de cadastro de séries.runtimeconfig.json
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\bin\Debug\net6.0\APP simples de cadastro de séries.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\bin\Debug\net6.0\ref\APP simples de cadastro de séries.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\bin\Debug\net6.0\APP simples de cadastro de séries.pdb
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\obj\Debug\net6.0\APP simples de cadastro de séries.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\obj\Debug\net6.0\APP simples de cadastro de séries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\obj\Debug\net6.0\APP simples de cadastro de séries.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\obj\Debug\net6.0\APP simples de cadastro de séries.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\obj\Debug\net6.0\APP simples de cadastro de séries.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\obj\Debug\net6.0\APP simples de cadastro de séries.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\obj\Debug\net6.0\ref\APP simples de cadastro de séries.dll
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\obj\Debug\net6.0\APP simples de cadastro de séries.pdb
+C:\Users\Pichau\Documents\Learning-Dio\DIO\APP simples de cadastro de séries\obj\Debug\net6.0\APP simples de cadastro de séries.genruntimeconfig.cache
